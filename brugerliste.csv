@@ -1,0 +1,11 @@
+﻿FirstName;Initials;Lastname;Username;Email;StreetAddress;City;ZipCode;State;Country;Department;Password;Telephone;JobTitle;Company;OU
+Max;MF;Fraser;Max.Fraser;Max.Fraser@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456780;Engineer;exdubs;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Piers;PB;Bower;Piers.Bower;Piers.Bower@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456781;Manager;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Kylie;KD;Davidson;Kylie.Davidson;Kylie.Davidson@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456782;Engineer;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Richard;RG;Grant;Richard.Grant;Richard.Grant@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456783;Teamleader;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Boris;BC;Campbell;Boris.Campbell;Boris.Campbell@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456784;Engineer;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Nicholas;NM;Murray;Nicholas.Murray;Nicholas.Murray@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456785;Manager;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Leonard;LC;Clark;Leonard.Clark;Leonard.Clark@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456786;Engineer;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Ruth;RD;Dickens;Ruth.Dickens;Ruth.Dickens@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456787;Engineer;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Jonathan;JF;Fisher;Jonathan.Fisher;Johnathan.Fisher@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456788;Engineer;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=exdubs,DC=dk
+Grace;GR;Rees;Grace.Rees;Grace.Rees@exdubs.dk;21 Baker St;London;NW1 6XE;;UK;IT;7RAQC[9c;44123456789;Engineer;EXOIP;OU=IT,OU=Users,OU=TCAA,DC=ezdubs,DC=dk
